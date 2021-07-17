@@ -1,0 +1,13 @@
+bank_cheque_generator:
+  version: 1.x
+  css:
+    theme:
+      css/bank-cheque-generator.css: {}
+      https://fonts.googleapis.com/css2?family=Caveat&family=Roboto&display=swap: { type: external }
+
+bootstrap:
+  version: 4.1.3
+  css:
+    layout:
+      https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css: { type: external, attributes: { integrity: sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO, crossorigin: anonymous  } }
+

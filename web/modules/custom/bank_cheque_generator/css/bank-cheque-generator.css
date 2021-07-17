@@ -1,0 +1,96 @@
+.result-header {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.bank-cheque {
+  font-family: Roboto, sans-serif;
+  position: relative;
+  width: 600px;
+  height: 250px;
+  border: 1px #000 solid;
+  font-size: 18px;
+}
+
+.cheque-print {
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+}
+
+.cheque-write {
+  font-family: Caveat, cursive;
+}
+
+.date-field {
+  position: absolute;
+  right: 10px;
+  top: 30px;
+}
+
+.payee-box {
+  position: absolute;
+  top: 105px;
+  left: 40px;
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
+  width: 380px;
+  height: 10px;
+  content: ' ';
+}
+
+.payee-field {
+  position: absolute;
+  top: 90px;
+  left: 40px;
+}
+
+.sum-in-word-box-1 {
+  position: absolute;
+  top: 135px;
+  left: 40px;
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
+  width: 380px;
+  height: 10px;
+  content: ' ';
+}
+.sum-in-word-box-2 {
+  position: absolute;
+  top: 164px;
+  left: 40px;
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
+  width: 380px;
+  height: 10px;
+  content: ' ';
+}
+
+.sum-in-word-field {
+  position: absolute;
+  top: 120px;
+  left: 40px;
+  max-width: 380px;
+}
+
+.sumNumberBox {
+  position: absolute;
+  top: 110px;
+  right: 15px;
+  padding: 5px;
+  width: 130px;
+  background-color: #ddd;
+}
+
+.dollar-sign {
+  font-size: 20px;
+}
+
+.pay-sum {
+  font-size: 22px;
+}
+
+.drawer-field {
+  position: absolute;
+  top: 179px;
+  left: 40px;
+}

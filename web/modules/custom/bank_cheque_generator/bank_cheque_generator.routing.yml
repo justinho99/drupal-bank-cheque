@@ -1,0 +1,7 @@
+bank_cheque_generator.bank_cheque_input_form:
+  path: '/bank-cheque-generator'
+  defaults:
+    _form: '\Drupal\bank_cheque_generator\Form\BankChequeInputForm'
+    _title: 'Bank Cheque Generating Form'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,6 @@
+<?php
+
+function bank_cheque_generator_page_attachments(array &$page) {
+  $page['#attached']['library'][] = 'bank_cheque_generator/bank_cheque_generator';
+}
+

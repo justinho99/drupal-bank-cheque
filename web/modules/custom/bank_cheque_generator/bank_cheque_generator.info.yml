@@ -1,0 +1,7 @@
+name: Bank Cheque Generator
+description: Form to process user input fields and create Cheque Template
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9
+libraries:
+  - bank_cheque_generator/bank_cheque_generator
