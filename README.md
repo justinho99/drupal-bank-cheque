@@ -11,7 +11,7 @@ This project's objective is to create a form that reads user's inputs and genera
 This project is built with Drupal 9 with the following dependency:
 
 - PHP `7.3` or higher and make sure the following extensions are installed and enabled
-  - `ext-date`, `ext-dom`, `ext-filter`, `ext-gd`, `ext-hash`, `ext-json`, `ext-pcre`, `ext-PDO`, `ext-session`, `ext-SimpleXML`, `ext-SPL`, `ext-tokenizer`, `ext-sml`
+  - `ext-date`, `ext-dom`, `ext-filter`, `ext-gd`, `ext-hash`, `ext-json`, `ext-pcre`, `ext-PDO`, `ext-session`, `ext-SimpleXML`, `ext-SPL`, `ext-tokenizer`, `ext-xml`
 - MySQL `5.7.8` or MariaDB `10.3.7`
 - Composer `^1.10.0`
 
